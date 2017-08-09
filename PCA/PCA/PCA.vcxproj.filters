@@ -18,5 +18,13 @@
     <ClCompile Include="pca .c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="layer1a_pca.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\..\..\..\Work\Programing\den\feature\layer1a_pca.m">
+      <Filter>资源文件</Filter>
+    </None>
   </ItemGroup>
 </Project>
