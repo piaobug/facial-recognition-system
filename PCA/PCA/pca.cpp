@@ -19,7 +19,7 @@ Multivariate Data Analysis, Kluwer Academic, Dordrecht, 1987.*/
 #include <string.h>
 #include <math.h>
 
-#define SIGN(a, b) ((b) < 0 ? -fabs(a) : fabs(a))
+#define SIGN(a, b) ((b) < 0 ? -fabs(a) : fabs(a))
 
 main(argc, argv)
 int argc;
